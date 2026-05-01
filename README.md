@@ -1,0 +1,1 @@
+python3 convert_to_tenth_microvolts.py EG.asc --as-int
